@@ -6,3 +6,4 @@
 - Amati pada bagian IP Source ke IP Destination dan Protokol apa yang digunakan.
 - Silahkan kirim ke tim pengajar file hasil monitoring trafik wireshark anda.
 
+[File Hasil Monitoring Trafik Wireshark](https://github.com/hasansuryaman/tugas_4_networking_basic/blob/master/tugas4.pcapng?raw=true
